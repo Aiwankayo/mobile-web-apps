@@ -1,0 +1,10 @@
+<script>start("/Users/ikhwan140426gmaillcom/visual studio 1.0/images/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bakso.jpg","bakso.jpg",0,236294,"231 kB",1744563857,"4/14/25, 1:04:17 AM");</script>
+<script>addRow("beef-rendang.jpg","beef-rendang.jpg",0,81058,"79.2 kB",1744592867,"4/14/25, 9:07:47 AM");</script>
+<script>addRow("chic curry.jpeg","chic%20curry.jpeg",0,14882,"14.5 kB",1744593153,"4/14/25, 9:12:33 AM");</script>
+<script>addRow("gado-gado.jpg","gado-gado.jpg",0,55051,"53.8 kB",1744592258,"4/14/25, 8:57:38 AM");</script>
+<script>addRow("images-15.jpeg","images-15.jpeg",0,8054,"7.9 kB",1744593924,"4/14/25, 9:25:24 AM");</script>
+<script>addRow("onde onde.jpeg","onde%20onde.jpeg",0,7334,"7.2 kB",1744593286,"4/14/25, 9:14:46 AM");</script>
+<script>addRow("rice pudding.jpg","rice%20pudding.jpg",0,84182,"82.2 kB",1744593689,"4/14/25, 9:21:29 AM");</script>
+<script>addRow("sotong.jpeg","sotong.jpeg",0,14334,"14.0 kB",1744593493,"4/14/25, 9:18:13 AM");</script>
